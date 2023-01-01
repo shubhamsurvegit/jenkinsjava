@@ -1,6 +1,8 @@
 const a=10
 const b=20
-const c=11
+
+const c=1100
+
 
 //knjnhbhb
 //ff
@@ -9,3 +11,4 @@ const c=11
 //njbhbhbhb
 //jnjnjnd
 //d
+//fffs
