@@ -10,5 +10,5 @@ const c=1100
 //fffnew deditedit
 //njbhbhbhb
 //jnjnjnd
-//d
+//dnewf
 //fffs
