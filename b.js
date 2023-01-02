@@ -1,7 +1,7 @@
 const a=10
 const b=20
 
-const c=1100
+const c=11000
 
 
 //knjnhbhb
