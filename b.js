@@ -1,14 +1,6 @@
 const a=10
 const b=20
 
-const c=1100
+const c=30
 
 
-//knjnhbhb
-//ff
-///knjbnjhbhvgv
-//fffnew deditedit
-//njbhbhbhb
-//jnjnjnd
-//dnewf
-//fffs
